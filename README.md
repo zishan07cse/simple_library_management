@@ -1,5 +1,5 @@
 #  Library management system 
-#  This is a simple library management system. Here any anyone can create, update and delete new authors, publishers,categories, books, booklists and reports.
+This is a simple library management system. Here anyone can create, update, and delete new authors, publishers, categories, books, booklists, and reports.
 
 # How to set up a project in localhost?
 - Clone your project
