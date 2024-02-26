@@ -18,8 +18,8 @@
             <div class="row">
                 <div class="offset-md-4 col-md-4 logo_div">
                     <div>
-                        <a href="/"><img class="nav_logo" style="height: 90px;
-                           " src="{{ asset('images/logo.jpg') }}"></a>
+                        <a href="/"><img class="nav_logo" style="height: 100px;width: 150px;
+                           " src="{{ asset('images/logo_login.png') }}"></a>
                     </div>
                 </div>
                 <div class="offset-md-2 col-md-2">
