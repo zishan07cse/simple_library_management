@@ -1,10 +1,7 @@
-# simple_library_management
-## Notice
+#  Library management system 
+#  This is a simple library management system. Here any anyone can create, update and delete new authors, publishers,categories, books, booklists and reports.
 
-Adminlte v3.1.0
-Laravel v8.12
-
-# How to setup project in localhost ?
+# How to set up a project in localhost?
 - Clone your project
 - Go to the folder application using cd command on your cmd or terminal
 - Run composer install on your cmd or terminal
