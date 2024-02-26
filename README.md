@@ -17,9 +17,7 @@ Laravel v8.12
 - Go to http://localhost:8000/
 - Login Page:
 ![login](https://github.com/zishan07cse/simple_library_management/assets/71685189/56d6d282-b97c-4719-b137-d2ca0b8b2339)
--Dashboard page:
-
+- Dashboard Page:
 ![dashboard](https://github.com/zishan07cse/simple_library_management/assets/71685189/7fa3cf16-9f00-4723-81f0-902653e3de8f)
-
--Author page:
+- Author Page:
 ![author](https://github.com/zishan07cse/simple_library_management/assets/71685189/5415d682-2ac0-4512-ac13-e4948f0c5192)
