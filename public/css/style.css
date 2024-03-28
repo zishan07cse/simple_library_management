@@ -6,6 +6,9 @@ body{
 .logo_div{
     text-align: center;
 }
+.logo_img{
+    height: 200px;
+}
 a,
 a:hover,
 a:focus{
@@ -286,6 +289,9 @@ ul{
 }
 .login_div{
     text-align: center;
+}
+.nav_logo{
+    height: 150px;
 }
 .mt-30{
     margin-top:30px;
